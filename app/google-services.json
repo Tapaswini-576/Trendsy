@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856385274640",
+    "project_id": "trendsy-d52e6",
+    "storage_bucket": "trendsy-d52e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856385274640:android:5064f61c62b9d60b37db95",
+        "android_client_info": {
+          "package_name": "com.example.trendsy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASv4wmXl3MPZBwYFx3b6yPHJiuklZHs94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
